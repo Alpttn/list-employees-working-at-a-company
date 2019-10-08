@@ -1,0 +1,11 @@
+C:\Users\allis\workspace\CSharp\book1\exercises\classes-list-employees\bin\Debug\netcoreapp3.0\classes-list-employees.exe
+C:\Users\allis\workspace\CSharp\book1\exercises\classes-list-employees\bin\Debug\netcoreapp3.0\classes-list-employees.deps.json
+C:\Users\allis\workspace\CSharp\book1\exercises\classes-list-employees\bin\Debug\netcoreapp3.0\classes-list-employees.runtimeconfig.json
+C:\Users\allis\workspace\CSharp\book1\exercises\classes-list-employees\bin\Debug\netcoreapp3.0\classes-list-employees.runtimeconfig.dev.json
+C:\Users\allis\workspace\CSharp\book1\exercises\classes-list-employees\bin\Debug\netcoreapp3.0\classes-list-employees.dll
+C:\Users\allis\workspace\CSharp\book1\exercises\classes-list-employees\bin\Debug\netcoreapp3.0\classes-list-employees.pdb
+C:\Users\allis\workspace\CSharp\book1\exercises\classes-list-employees\obj\Debug\netcoreapp3.0\classes-list-employees.csprojAssemblyReference.cache
+C:\Users\allis\workspace\CSharp\book1\exercises\classes-list-employees\obj\Debug\netcoreapp3.0\classes-list-employees.AssemblyInfoInputs.cache
+C:\Users\allis\workspace\CSharp\book1\exercises\classes-list-employees\obj\Debug\netcoreapp3.0\classes-list-employees.AssemblyInfo.cs
+C:\Users\allis\workspace\CSharp\book1\exercises\classes-list-employees\obj\Debug\netcoreapp3.0\classes-list-employees.dll
+C:\Users\allis\workspace\CSharp\book1\exercises\classes-list-employees\obj\Debug\netcoreapp3.0\classes-list-employees.pdb
